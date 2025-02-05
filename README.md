@@ -12,13 +12,6 @@ This exercise focuses on building a logistic regression model. The dataset used 
 - Interpret key performance metrics.
 - Understand the impact of features on model predictions.
 
-### Dataset Overview
-
-The dataset includes the following columns:
-- **Feature 1**: [Description of the feature, if known]
-- **Feature 2**: [Description of the feature, if known]
-- **Target**: Binary classification (0 or 1).
-
 ### Tools and Libraries Used
 
 - **Python**
