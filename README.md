@@ -4,7 +4,7 @@ This repository contains the solution to the "Building a Logistic Regression - E
 
 ## About the Exercise
 
-This exercise focuses on building a logistic regression model. The dataset used explores binary classification, a fundamental concept in machine learning.
+This exercise focuses on building a logistic regression model. The dataset which is a hypothetical "bank data", is used to explore binary classification, a fundamental concept in machine learning.
 
 ### Objectives
 
